@@ -326,7 +326,7 @@ ul#nav li.current a { color: #F06000; }
 }
 
 .photoshop {
-  	width: 60%;
+  	width: 50%;
   	-moz-animation: photoshop 2s ease;
   	-webkit-animation: photoshop 2s ease;
 }
@@ -336,7 +336,7 @@ ul#nav li.current a { color: #F06000; }
   	-webkit-animation: illustrator 2s ease;
 }
 .wordpress {
-  	width: 50%;
+  	width: 40%;
   	-moz-animation: wordpress 2s ease;
   	-webkit-animation: wordpress 2s ease;
 }
@@ -346,12 +346,12 @@ ul#nav li.current a { color: #F06000; }
   	-webkit-animation: css 2s ease;
 }
 .html5 {
-  	width: 60%;
+  	width: 48%;
   	-moz-animation: html5 2s ease;
   	-webkit-animation: html5 2s ease;
 }
 .jquery {
-  	width: 60%;
+  	width: 45%;
   	-moz-animation: jquery 2s ease;
   	-webkit-animation: jquery 2s ease;
 }
@@ -369,13 +369,13 @@ ul#nav li.current a { color: #F06000; }
 }
 
 .jquery3 {
-  	width: 60%;
+  	width: 50%;
   	-moz-animation: jquery3 2s ease;
   	-webkit-animation: jquery3 2s ease;
 }
 
 .jquery4 {
-  	width: 45%;
+  	width: 30%;
   	-moz-animation: jquery4 2s ease;
   	-webkit-animation: jquery4 2s ease;
 }
